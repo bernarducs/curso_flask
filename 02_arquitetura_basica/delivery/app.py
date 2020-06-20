@@ -5,7 +5,6 @@ import views
 from flask import Flask
 
 
-
 def create_app():
     """factory principal"""
     app = Flask(__name__)
