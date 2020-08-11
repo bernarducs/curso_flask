@@ -1,7 +1,6 @@
 """ Criando comandos para o flask no terminal """
 import click
-from delivery.ext.db import db
-from delivery.ext.site import models  # noqa
+from delivery.ext.db import db, models
 
 
 def init_app(app):
