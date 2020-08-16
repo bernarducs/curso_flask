@@ -1,1 +1,182 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not
+#   install all needed dependencies.
+#Pipfile.lock
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# db
+delivery/delivery/delivery.db
+
+delivery/.secrets.toml
+
+.idea/.gitignore
+.idea/curso_flask.iml
+.idea/dictionaries/
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.venv/
+
+01_estrutura_minima/decorador.py
+01_estrutura_minima/delivery/__pycache__/
+02_arquitetura_basica/delivery/__pycache__/
+03_arquitetura/delivery/__pycache__/
+04_templates/delivery/__pycache__/
+04_templates/delivery/ext/__pycache__/
+04_templates/delivery/ext/config/__pycache__/
+04_templates/delivery/ext/site/__pycache__/
+05_database/__pycache__/
+05_database/delivery/__pycache__/
+05_database/delivery/ext/__pycache__/
+05_database/delivery/ext/cli/__pycache__/
+05_database/delivery/ext/config/__pycache__/
+05_database/delivery/ext/db/__pycache__/
+05_database/delivery/ext/site/__pycache__/
+05_database/delivery/ext/toolbar/__pycache__/
+05_database/tests/__pycache__/
+06_admin/.coverage
+06_admin/__pycache__/
+06_admin/delivery/__pycache__/
+06_admin/delivery/ext/__pycache__/
+delivery/.coverage
+delivery/__pycache__/
+delivery/delivery/__pycache__/
+delivery/delivery/ext/__pycache__/
+delivery/delivery/ext/admin/__pycache__/
+delivery/delivery/ext/auth/__pycache__/
+delivery/delivery/ext/cli/__pycache__/
+delivery/delivery/ext/config/__pycache__/
+delivery/delivery/ext/db/__pycache__/
+delivery/delivery/ext/site/__pycache__/
+delivery/delivery/ext/toolbar/__pycache__/
+delivery/migrations/__pycache__/
+delivery/migrations/versions/
+delivery/secrets.toml
+delivery/tests/__pycache__/
+
+notas
